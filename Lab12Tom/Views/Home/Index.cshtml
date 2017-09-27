@@ -1,0 +1,16 @@
+﻿@using Lab12Tom.ViewModels;
+@model List<Lab12Tom.ViewModels.Students>
+
+@{
+    var student = ViewData["student"] as Students;
+}
+
+@foreach(var s in @Model)
+{
+    <p id="studentStats">@s.Name</p>
+    <p id="studentStats">@s.Age</p>
+    <p id="studentStats">@s.Course</p>
+    <p id="studentStats">@s.Grade</p>
+
+}
+<br />
