@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\bin\Debug\netcoreapp2.0\Lab12Tom.deps.json
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\bin\Debug\netcoreapp2.0\Lab12Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\bin\Debug\netcoreapp2.0\Lab12Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\bin\Debug\netcoreapp2.0\Lab12Tom.dll
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\bin\Debug\netcoreapp2.0\Lab12Tom.pdb
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.dll
+C:\Users\Tom\source\repos\Lab12-Views\Lab12Tom\obj\Debug\netcoreapp2.0\Lab12Tom.pdb
